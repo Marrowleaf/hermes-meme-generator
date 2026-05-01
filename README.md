@@ -1,9 +1,33 @@
-# ---
+# 🔧 hermes-meme-generator
 
---- name: meme-generator description: Generate memes from templates with custom text overlays using Python Pillow, supporting 20+ popular formats with batch generation for content calendars 
+A [Hermes Agent](https://hermes-agent.nousresearch.com/) skill for **meme-generator** (creative category).
 
-Part of the [Hermes Agent](https://github.com/Marrowleaf/hermes-agent) skill ecosystem.
+## Installation
+
+```bash
+cd ~/.hermes/skills/creative
+git clone https://github.com/Marrowleaf/hermes-meme-generator.git meme-generator
+```
+
+## Usage
+
+Once installed, this skill is automatically detected by Hermes Agent.
+
+```
+skill_view(name="meme-generator")
+```
+
+## Structure
+
+- `SKILL.md` — Full documentation
+- `references/` — Reference materials
+- `scripts/` — Utility scripts
+- `templates/` — Templates
 
 ## License
 
-MIT License - Copyright (c) 2026 James Durrant
+MIT — see [LICENSE](LICENSE)
+
+---
+
+Built with ❤️ by [James Durrant](https://github.com/Marrowleaf)
