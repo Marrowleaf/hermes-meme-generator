@@ -33,3 +33,7 @@ MIT — see [LICENSE](LICENSE)
 Built with ❤️ by [James Durrant](https://github.com/Marrowleaf)
 
 ## Related Hermes Skills
+- [hermes-social-poster](https://github.com/Marrowleaf/hermes-social-poster) — Cross-platform social media posting
+- [hermes-youtube-content](https://github.com/Marrowleaf/hermes-youtube-content) — YouTube content creation and management
+- [hermes-spotify](https://github.com/Marrowleaf/hermes-spotify) — Spotify integration and music management
+- [hermes-ocr-and-documents](https://github.com/Marrowleaf/hermes-ocr-and-documents) — OCR and document processing
