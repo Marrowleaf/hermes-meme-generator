@@ -31,3 +31,5 @@ MIT — see [LICENSE](LICENSE)
 ---
 
 Built with ❤️ by [James Durrant](https://github.com/Marrowleaf)
+
+## Related Hermes Skills
