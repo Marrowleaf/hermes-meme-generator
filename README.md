@@ -1,3 +1,11 @@
+# ⚠️ Archived — Moved to [hermes-skills](https://github.com/Marrowleaf/hermes-skills)
+
+This repository has been consolidated into the **[hermes-skills](https://github.com/Marrowleaf/hermes-skills)** collection.
+
+All functionality remains the same. Please use the consolidated repo going forward.
+
+---
+
 # 🔧 hermes-meme-generator
 
 A [Hermes Agent](https://hermes-agent.nousresearch.com/) skill for **meme-generator** (creative category).
